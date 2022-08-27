@@ -1,5 +1,5 @@
 [Service]
-ExecStart=/home/mike/lol.sh
+ExecStart=/home/mike/iptoemail.sh
 
 
 [Install]
