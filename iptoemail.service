@@ -1,5 +1,5 @@
 [Service]
-ExecStart=/home/mike/iptoemail.sh
+ExecStart=/home/$USER/iptoemail.sh
 
 
 [Install]
