@@ -17,8 +17,6 @@ To run
     iptoemail
 -----------------
 
-(DONT USE ROOT UNLESS YOU INSTALLED IT AS ROOT)
-
 
 
 
