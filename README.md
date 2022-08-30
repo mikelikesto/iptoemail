@@ -3,8 +3,13 @@ A Simple program that uses ssmtp to send your ip to your chosen email. For a aut
 
 requires ssmp
 
-
 Installation
+
+
+------------------
+   https://github.com/mikelikesto/iptoemail
+-----------------
+
 ------------------
     chmod +x install.sh && ./install.sh
 -----------------
