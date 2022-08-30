@@ -11,11 +11,13 @@ Installation
 
 
 
-To run (DONT USE ROOT UNLESS YOU INSTALLED IT AS ROOT)
+To run 
+
 ------------------
     iptoemail
 -----------------
 
+(DONT USE ROOT UNLESS YOU INSTALLED IT AS ROOT)
 
 
 
