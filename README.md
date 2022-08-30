@@ -7,7 +7,7 @@ Installation
 
 
 ------------------
-   https://github.com/mikelikesto/iptoemail
+      git clone https://github.com/mikelikesto/iptoemail
 -----------------
 
 ------------------
