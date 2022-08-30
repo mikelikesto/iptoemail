@@ -8,6 +8,8 @@ Installation
 
 ------------------
       git clone https://github.com/mikelikesto/iptoemail
+      
+      chmod +x install.sh && ./install.sh
 -----------------
 
 ------------------
