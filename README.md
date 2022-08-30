@@ -11,6 +11,14 @@ Installation
 
 
 
+To run (DONT USE ROOT UNLESS YOU INSTALLED IT AS ROOT)
+------------------
+    iptoemail
+-----------------
+
+
+
+
 
 To run on boot using systemd
 ------------------
