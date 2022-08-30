@@ -8,9 +8,13 @@ Installation
 
 ------------------
       git clone https://github.com/mikelikesto/iptoemail
-      
-      chmod +x install.sh && ./install.sh
 -----------------
+
+Edit iptoemail.sh and change:
+------------------
+    email@gmail.com To your email
+-----------------
+
 
 ------------------
     chmod +x install.sh && ./install.sh
