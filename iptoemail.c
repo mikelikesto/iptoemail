@@ -5,7 +5,7 @@
 int main () {
    char command[50];
 
-   strcpy( command, "/home/$USER/.config/./iptoemail.sh" );
+   strcpy( command, "/bin/./iptoemail.sh" );
    system(command);
 
    return(0);
