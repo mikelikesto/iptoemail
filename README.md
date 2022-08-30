@@ -1,5 +1,5 @@
 # iptoemail
-A Simple program that uses ssmtp to send your ip to your chosen email
+A Simple program that uses ssmtp to send your ip to your chosen email. For a automated version, please check out iptoemailon, which will send a email out everytime your ip has changed.
 
 requires ssmp
 
